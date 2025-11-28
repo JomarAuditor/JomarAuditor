@@ -11,7 +11,7 @@ New Era University, Quezon City, Philippines
 ---
 
 ## 🏆 Certifications
-[SQL and Relational Databases 101](YOUR_CERTIFICATE_LINK_HERE)
+[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/95fde3b647c3491ebdb5a2bc0cba806a#)
 
 ---
 
