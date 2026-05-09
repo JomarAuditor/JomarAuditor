@@ -99,8 +99,8 @@ I am Jomar Auditor, a dedicated IT professional with strong technical problem-so
 <h2 id="activity">06. SYSTEM METRICS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JomarAuditor&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&layout=compact&theme=dark&cache_seconds=1800" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JomarAuditor&show_icons=true&theme=dark&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JomarAuditor&layout=compact&theme=dark" width="45%" alt="Top Languages" />
 </div>
 
 ---
