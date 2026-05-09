@@ -1,54 +1,98 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jomar Auditor 
-
-I’m an aspiring **IT Professional** passionate about coding, designing, and building efficient digital solutions.
-
----
-
-## 👨‍🎓 Education
-**Bachelor of Science in Information Technology**  
-New Era University, Quezon City, Philippines
+<div align="center">
+  <h1>JOMAR AUDITOR</h1>
+  <p>ASPIRING IT PROFESSIONAL | DATA ANALYST | CLOUD ARCHITECT</p>
+  <a href="#about">ABOUT</a> | <a href="#education">EDUCATION</a> | <a href="#certifications">CERTIFICATIONS</a> | <a href="#skills">SKILLS</a> | <a href="#contact">CONTACT</a>
+</div>
 
 ---
 
-## 🏆 Certifications
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/95fde3b647c3491ebdb5a2bc0cba806a#)  
-- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1C378F7D613993DBE087A7B9BA15E5F3D8C266D2A66CEB0DD5F4A51D044C0E98)
-- [Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BA7EDA1C25F2F78DCFAF2A08B84B0681CD0B54B14466D398FE9591ADDC93392B)
-- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=005CFBAA1D1A03C693AD2D8D0CD9901C891C729DEDB7BEEE662350F3EE99B838)
----
+<h2 id="about">01. EXECUTIVE SUMMARY</h2>
 
-## 💻 Skillsets
-
-### Programming & Databases
-- Java, JavaScript  
-- SQL, MySQL, IBM Cloud DB2  
-
-### Web & UI/UX Design
-- HTML, CSS  
-- Figma, Canva, Lucidchart  
-
-### Tools & Platforms
-- Visual Studio Code, Git, GitHub, HubSpot  
-
-### Other Skills
-- Email Marketing, Excel  
+<samp>
+I am Jomar Auditor, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program. I specialize in turning complex datasets into actionable business intelligence through SQL, Power BI, and Cloud infrastructure.
+</samp>
 
 ---
 
-## 📫 Connect With Me
-- [**Portfolio**](https://jomarauditorportfolio.vercel.app/)  
-- [**GitHub**](https://github.com/Jomar-Auditor)  
-- [**Email Me**](mailto:jomarskiee1121@gmail.com)  
+<h2 id="education">02. ACADEMIC BACKGROUND</h2>
+
+**NEW ERA UNIVERSITY** *Bachelor of Science in Information Technology* Quezon City, Philippines | 2024 — PRESENT  
+
+> **Core Focus:** Information Management, Web Development, Data Structures & Algorithms, Human-Computer Interaction.
 
 ---
 
-### Socials
-<p align="left">
-<a href="https://github.com/JomarAuditor" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/jomar-auditor-860622335" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-</p>
+<h2 id="skills">03. TECHNICAL ECOSYSTEM</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>PROGRAMMING & LOGIC</strong>
+      <ul>
+        <li>Java / JavaScript / Python</li>
+        <li>SQL / HTML5 / CSS3</li>
+        <li>Tailwind CSS / React</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>DATA & CLOUD</strong>
+      <ul>
+        <li>MySQL / IBM Db2 Cloud</li>
+        <li>Oracle Database / Supabase</li>
+        <li>MS Fabric / Power BI</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>DESIGN & ARCHITECTURE</strong>
+      <ul>
+        <li>Figma (UI/UX)</li>
+        <li>Lucidchart / Canva</li>
+        <li>Wireframing & Prototyping</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>TOOLS & PLATFORMS</strong>
+      <ul>
+        <li>Git / GitHub / VS Code</li>
+        <li>HubSpot / Microsoft Excel</li>
+        <li>Google Analytics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JomarAuditor&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=JomarAuditor&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h2 id="certifications">04. CREDENTIALS</h2>
+
+| AUTHORITY | CERTIFICATION |
+| :--- | :--- |
+| **Cognitive Class** | [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a918d007d9304752996b4b959f78eeb4) |
+| **Oracle** | [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://bit.ly/3U6z7T9) |
+| **Oracle** | [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://bit.ly/1C378F7) |
+| **Anthropic** | [AI Fluency Framework & Foundations](https://verify.skilljar.com/c/2tvirdgfsz3b) |
+| **Google** | [Google Analytics Certification](https://skillshop.credential.net/426ab901-0723-42b1-9f1b-33bc437f2eaf#acc.NzqgMiyW) |
+| **Google** | [Gemini Certified University Student](https://edu.google.accredible.com/95278985-d96c-4090-abd6-964fecfe78bb#acc.H9Zek7Ih) |
+
+---
+
+<h2 id="activity">05. SYSTEM METRICS</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JomarAuditor&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333&icon_color=000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" width="45%" />
+</div>
+
+---
+
+<h2 id="contact">06. CONNECT</h2>
+
+**Location:** Quezon City, Philippines  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomarskiee1121@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomar-auditor-939a03310/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jomarauditorportfolio.vercel.app/)
+
+---
