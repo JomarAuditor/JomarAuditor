@@ -9,7 +9,7 @@
 <h2 id="about">01. EXECUTIVE SUMMARY</h2>
 
 <samp>
-I am Jomar Auditor, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech has started when I took the BS Information Technology program. I specialize in turning complex datasets into actionable business intelligence through SQL, Power BI, and Cloud infrastructure.
+I am Jomar Auditor, a dedicated IT professional with strong technical problem-solving and database management skills. I thrive on tackling complex challenges and engineering efficient digital solutions. My journey in tech started with the BS Information Technology program, and I now specialize in turning complex datasets into actionable business intelligence through SQL, Power BI, and Cloud infrastructure.
 </samp>
 
 ---
@@ -37,6 +37,7 @@ I am Jomar Auditor, with a flair for coding and database management skills. I th
     <td width="50%" valign="top">
       <strong>DATA & CLOUD</strong>
       <ul>
+        <li>Pentaho (ETL) / Jaspersoft Studio</li>
         <li>MySQL / IBM Db2 Cloud</li>
         <li>Oracle Database / Supabase</li>
         <li>MS Fabric / Power BI</li>
@@ -81,8 +82,8 @@ I am Jomar Auditor, with a flair for coding and database management skills. I th
 <h2 id="activity">05. SYSTEM METRICS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JomarAuditor&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=333&icon_color=000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JomarAuditor&show_icons=true&theme=radical" width="48%" alt="Jomar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&layout=compact&theme=radical" width="45%" alt="Jomar's Top Languages" />
 </div>
 
 ---
