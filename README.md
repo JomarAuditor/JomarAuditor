@@ -1,7 +1,7 @@
 <div align="center">
   <h1>JOMAR AUDITOR</h1>
   <p>ASPIRING IT PROFESSIONAL | DATA ANALYST | CLOUD ARCHITECT</p>
-  <a href="#about">ABOUT</a> | <a href="#education">EDUCATION</a> | <a href="#certifications">CERTIFICATIONS</a> | <a href="#skills">SKILLS</a> | <a href="#contact">CONTACT</a>
+  <a href="#about">ABOUT</a> | <a href="#experience">EXPERIENCE</a> | <a href="#education">EDUCATION</a> | <a href="#certifications">CERTIFICATIONS</a> | <a href="#skills">SKILLS</a> | <a href="#contact">CONTACT</a>
 </div>
 
 ---
@@ -14,7 +14,24 @@ I am Jomar Auditor, a dedicated IT professional with strong technical problem-so
 
 ---
 
-<h2 id="education">02. ACADEMIC BACKGROUND</h2>
+<h2 id="experience">02. PROFESSIONAL EXPERIENCE</h2>
+
+**DATA ENTRY SPECIALIST | MCVO TALENT OUTSOURCING SERVICES** *Feb 2026 – Mar 2026 | Remote (Contract)*
+* Processed and managed large datasets using CRM tools and Excel with high accuracy.
+* Cleaned and validated data to ensure consistency and reliability.
+* Organized structured datasets for reporting and analysis.
+* Improved data workflow by maintaining clear and standardized formats.
+* Supported reporting needs through well-prepared and accurate data.
+
+**TEACHING ASSISTANT | DOÑA JUANA ELEMENTARY SCHOOL** *Mar 2024 – May 2024 | NCR, Philippines (Internship)*
+* Assisted teachers in organizing and managing student data and grading records.
+* Maintained accurate reports for classroom and administrative use.
+* Supported data entry and documentation tasks for school operations.
+* Helped streamline record-keeping for easier access and tracking.
+
+---
+
+<h2 id="education">03. ACADEMIC BACKGROUND</h2>
 
 **NEW ERA UNIVERSITY** *Bachelor of Science in Information Technology* Quezon City, Philippines | 2024 — PRESENT  
 
@@ -22,7 +39,7 @@ I am Jomar Auditor, a dedicated IT professional with strong technical problem-so
 
 ---
 
-<h2 id="skills">03. TECHNICAL ECOSYSTEM</h2>
+<h2 id="skills">04. TECHNICAL ECOSYSTEM</h2>
 
 <table width="100%">
   <tr>
@@ -58,7 +75,7 @@ I am Jomar Auditor, a dedicated IT professional with strong technical problem-so
       <ul>
         <li>Git / GitHub / VS Code</li>
         <li>HubSpot / Microsoft Excel</li>
-        <li>Google Analytics</li>
+        <li>Google Analytics 4</li>
       </ul>
     </td>
   </tr>
@@ -66,7 +83,7 @@ I am Jomar Auditor, a dedicated IT professional with strong technical problem-so
 
 ---
 
-<h2 id="certifications">04. CREDENTIALS</h2>
+<h2 id="certifications">05. CREDENTIALS</h2>
 
 | AUTHORITY | CERTIFICATION |
 | :--- | :--- |
@@ -79,16 +96,16 @@ I am Jomar Auditor, a dedicated IT professional with strong technical problem-so
 
 ---
 
-<h2 id="activity">05. SYSTEM METRICS</h2>
+<h2 id="activity">06. SYSTEM METRICS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JomarAuditor&show_icons=true&theme=dark&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&layout=compact&theme=dark" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JomarAuditor&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomarAuditor&layout=compact&theme=dark&cache_seconds=1800" width="45%" alt="Top Languages" />
 </div>
 
 ---
 
-<h2 id="contact">06. CONNECT</h2>
+<h2 id="contact">07. CONNECT</h2>
 
 **Location:** Quezon City, Philippines  
 
