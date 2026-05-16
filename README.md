@@ -25,7 +25,7 @@ I am Jomar Auditor, a dedicated IT professional with strong technical problem-so
 
 **TEACHING ASSISTANT | DOÑA JUANA ELEMENTARY SCHOOL** *Mar 2024 – May 2024 | NCR, Philippines (Internship)*
 * Assisted teachers in organizing and managing student data and grading records.
-* Maintained accurate reports for classroom and administrative use.
+* Maintain accurate reports for classroom and administrative use.
 * Supported data entry and documentation tasks for school operations.
 * Helped streamline record-keeping for easier access and tracking.
 
@@ -88,8 +88,10 @@ I am Jomar Auditor, a dedicated IT professional with strong technical problem-so
 | AUTHORITY | CERTIFICATION |
 | :--- | :--- |
 | **Cognitive Class** | [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/a918d007d9304752996b4b959f78eeb4) |
-| **Oracle** | [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://bit.ly/3U6z7T9) |
-| **Oracle** | [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://bit.ly/1C378F7) |
+| **Cognitive Class** | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/95fde3b647c3491ebdb5a2bc0cba806a#) |
+| **Oracle** | [Oracle Cloud Data Management Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BA7EDA1C25F2F78DCFAF2A08B84B0681CD0B54B14466D398FE9591ADDC93392B) |
+| **Oracle** | [Oracle Cloud Infrastructure Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1C378F7D613993DBE087A7B9BA15E5F3D8C266D2A66CEB0DD5F4A51D044C0E98) |
+| **Oracle** | [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=005CFBAA1D1A03C693AD2D8D0CD9901C891C729DEDB7BEEE662350F3EE99B838) |
 | **Anthropic** | [AI Fluency Framework & Foundations](https://verify.skilljar.com/c/2tvirdgfsz3b) |
 | **Google** | [Google Analytics Certification](https://skillshop.credential.net/426ab901-0723-42b1-9f1b-33bc437f2eaf#acc.NzqgMiyW) |
 | **Google** | [Gemini Certified University Student](https://edu.google.accredible.com/95278985-d96c-4090-abd6-964fecfe78bb#acc.H9Zek7Ih) |
